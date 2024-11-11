@@ -1,4 +1,4 @@
-# signal_processing
+# Digital Signal Processing
 This practical includes processing of digital signals using Fast Fourier Transform.
 
 ![](pics/Fourier-transform.gif)
